@@ -1,0 +1,20 @@
+<suite name="Unit Testing Results" verbose="1">
+
+
+<!--    <test name="Regression1">-->
+<!--        <classes>-->
+<!--            <class name="FileStorageTest">-->
+<!--                <methods>-->
+<!--                    <include name="testGetFile"/>-->
+<!--                    <include name="testGetFile_NOT_NULL"/>-->
+<!--                    <include name="testConstructorFileAvailableSizeNotNegative"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+    <!--        <classes>-->
+    <!--            <class name="FileStorageTest"/>-->
+    <!--            <class name="FileTest"/>-->
+    <!--        </classes>-->
+</suite>
